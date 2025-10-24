@@ -1,5 +1,6 @@
 #Ignore binaries folder
 bin/
+.vs/
 test_engine.sln
 test_engine.vcxproj
 test_engine.vcxproj.filters
