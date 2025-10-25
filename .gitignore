@@ -1,5 +1,7 @@
 #Ignore binaries folder
 bin/
+obj/
+third_party/
 .vs/
 test_engine.sln
 test_engine.vcxproj
